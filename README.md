@@ -9,6 +9,6 @@ This project contains an artificial intelligence that learns to play flappy bird
 
 ## Screenshots
 
-![App Screenshot](https://prnt.sc/EDAQLj6f-rWF)
+![App Screenshot](https://github.com/ryanwebstert/flappy-bird-ai/blob/e1a94e3eb088aa193844a5f5ec7ac43b215a670a/Screenshot_1.png)
 
 
